@@ -4,12 +4,14 @@ body {
   
 }
 
-h1 {
 
+
+=======
+h1 {
+  font-weight: bold;
   
   font-size: 18px;
   
   color: red;
-  
-
 }
+
